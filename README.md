@@ -1,5 +1,4 @@
 # Sygno FastAPI demo
-![Architecture](diagram.png)
 This project implements an API with the following functionality:
 - Two POST endpoints for read and write
 - Authentication to allow for different roles between the "write" endpoint and the "read" endpoints
@@ -104,7 +103,7 @@ curl -X 'POST' \
 ```
 
 #### Manual CDK Deploy from command line
-
+![Architecture](diagram.png)
 Ensure CDK v2 and AWS CLI tools are installed
 
 The following will synthesize and deploy the stack.  By default the deployment environment
