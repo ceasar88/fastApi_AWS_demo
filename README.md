@@ -49,17 +49,10 @@ handler is written as a FastAPI app, and it uses [Mangum](https://mangum.io/) an
 ##### AWS Configure
 First, we have to configure the aws cli to have access to aws resources.
 
-
 Open a terminal and run command: 
   
 `aws configure`
 
-You will be prompted for the following:
-```commandline
-AWS Access Key ID: AKIA25H3MEGKJFOSGYIS
-AWS Secret Access Key: 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
-Default region name: us-west-1
-```
 
 ##### Stand up the fastAPI server
 In the project home directory, open terminal and run the following commands(see below for windows commands):
