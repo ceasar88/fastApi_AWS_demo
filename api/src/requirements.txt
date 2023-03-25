@@ -1,0 +1,15 @@
+build==0.7.0
+boto3==1.21.42
+constructs>=10.0.0,<11.0.0
+fastapi==0.75.1
+mangum==0.14.1
+stringcase>=1.2.0
+uvicorn==0.13.2
+pre-commit
+pytest==6.2.5
+pytest-datadir
+pytest-lazy-fixture
+pytest-mock
+pandas
+openpyxl
+
