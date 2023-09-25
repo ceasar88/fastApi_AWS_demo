@@ -1,4 +1,4 @@
-# Sygno FastAPI demo
+# FastAPI AWS demo
 This project implements an API with the following functionality:
 - Two POST endpoints for read and write
 - Authentication to allow for different roles between the "write" endpoint and the "read" endpoints
